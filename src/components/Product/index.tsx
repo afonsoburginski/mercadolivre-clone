@@ -1,6 +1,6 @@
 import React from "react";
 
-import ReacticonImage from "../../assets/React-icon.png";
+import tshirtImage from "../../assets/tshirt.png";
 import ProductAction from "../ProductAction";
 import SellerInfo from "../SellerInfo";
 
@@ -25,7 +25,7 @@ const Product: React.FC = () => {
       <Panel>
         <Column>
           <Gallery>
-            <img alt="React-icon" src={ReacticonImage} />
+            <img alt="T-Shirt" src={tshirtImage} />
           </Gallery>
 
           <Info />
@@ -68,15 +68,20 @@ const Info = () => (
     <h2>Descrição</h2>
 
     <p>
-    Este e um projeto desenvolvido com ReactJS e TypeScript, com o objetivo
-    de recriar a interface de venda do Mercado Livre.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et dolor
+      bibendum diam ullamcorper bibendum vitae a ex. Ut in ipsum lacus. Nullam
+      dictum nisi sem, sed sagittis arcu ultricies ut. Mauris sodales nisl
+      velit. Mauris quis velit at urna bibendum viverra. Pellentesque sodales
+      laoreet nunc, et blandit libero lobortis eget. Pellentesque pellentesque
+      sed mauris dictum porttitor.
       <br />
       <br />
-      Tecnologias: <br />
-      - TypeScript <br />
-      - ReactJS <br />
-      - Styled Components <br />
-    
+      Itens inclusos: <br />
+      - 1x LED <br />
+      - 1x LED <br />
+      - 1x LED <br />
+      - 1x LED <br />
+      - 1x LED <br />
       <br />
       Etiam semper a dui ac lacinia. Curabitur at nisi ut urna aliquet
       venenatis. Nullam eget leo nec lectus euismod finibus vel in enim. Vivamus

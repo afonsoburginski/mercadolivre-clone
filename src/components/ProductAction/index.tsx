@@ -24,7 +24,7 @@ const ProductAction: React.FC = () => {
       <Condition>Novo</Condition>
 
       <Row>
-        <h1>Desenvolvedor Front-End JR</h1>
+        <h1>Camiseta Branca Simples</h1>
         <HeartIcon />
       </Row>
 
@@ -33,11 +33,11 @@ const ProductAction: React.FC = () => {
       <PriceCard>
         <PriceRow>
           <span className="symbol">R$</span>
-          <span className="fraction">2.000,</span>
-          <span className="cents">00</span>
+          <span className="fraction">34</span>
+          <span className="cents">99</span>
         </PriceRow>
 
-        <InstallmentsInfo>em 10x de R$ 200,00</InstallmentsInfo>
+        <InstallmentsInfo>em 3x de R$ 11,67</InstallmentsInfo>
       </PriceCard>
 
       <StockStatus>Estoque disponível</StockStatus>
