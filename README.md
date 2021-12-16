@@ -13,7 +13,7 @@
 -  Styled-Components
 ## 💻 Sobre o projeto
 
-Mercado Livre (Sale Page) UI clone, desenvolvido com o objetivo de estudo e treinamento em habilidades como React.JS e TypeScript. O projeto foi desenvolvido conjunto a aula [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) como base de estudo.
+Mercado Livre (Sale Page) UI clone, desenvolvido com o objetivo de estudo e treinamento em habilidades como React.JS e TypeScript. O projeto foi desenvolvido conjunto à aula [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) como base de estudo.
 
 
 ## :computer_mouse: Instalação e execução
